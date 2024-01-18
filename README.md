@@ -1,0 +1,2 @@
+# Page-Replacement-Algorithm-Visualizer-with-Python-Tkinter
+This is a Python Tkinter-based Page Replacement Algorithm visualizer. The tool provides real-time graphs for miss and hit ratios, shedding light on the efficiency of various algorithms. The visualizer offers a hands-on experience, allowing users to customize the number of frames for a personalized exploration of page replacement techniques. 
